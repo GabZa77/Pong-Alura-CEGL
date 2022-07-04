@@ -1,7 +1,3 @@
 # Primeiro-Repositório Pong-Alura-CEGL
 
-```
-<html>
- <h1>Meu Primeiro Arquivo em HTML</h1>
-</html>
-```
+Repositório criado para as aulas de pensamento computacional.
