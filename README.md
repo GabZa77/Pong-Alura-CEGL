@@ -1,4 +1,4 @@
-# Primeiro Repositório Pong-Alura-CEGL
+# Primeiro-Repositório Pong-Alura-CEGL
 
 ```
 <html>
