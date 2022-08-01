@@ -1,3 +1,3 @@
-# Primeiro-Repositório Pong-Alura-CEGL
+# Primeiro-Repositorio
 
 Repositório criado para as aulas de pensamento computacional.
